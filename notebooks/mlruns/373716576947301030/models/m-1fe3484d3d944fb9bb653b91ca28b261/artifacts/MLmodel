@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/Estiven%20Angel/Documents/Projects/mlcourse/notebooks/mlruns/373716576947301030/models/m-1fe3484d3d944fb9bb653b91ca28b261/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.5.1
+model_id: m-1fe3484d3d944fb9bb653b91ca28b261
+model_size_bytes: 1365
+model_uuid: m-1fe3484d3d944fb9bb653b91ca28b261
+prompts: null
+run_id: ebbd3b9ef4114efbb1b42e4b67b8eade
+utc_time_created: '2025-10-27 02:24:42.683459'

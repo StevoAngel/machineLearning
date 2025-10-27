@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/Estiven%20Angel/Documents/Projects/mlcourse/notebooks/mlruns/373716576947301030
+creation_time: 1761530849187
+experiment_id: '373716576947301030'
+last_update_time: 1761530849187
+lifecycle_stage: active
+name: boston_housing_linear_regression

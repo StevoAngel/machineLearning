@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Estiven%20Angel/Documents/Projects/mlcourse/notebooks/mlruns/447418036080281627/f5f2579f0a4c447592d13b7ff5b12d57/artifacts
+end_time: 1761536355576
+entry_point_name: ''
+experiment_id: '447418036080281627'
+lifecycle_stage: active
+run_id: f5f2579f0a4c447592d13b7ff5b12d57
+run_name: 'Second try: Lasso Regression'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761536355211
+status: 4
+tags: []
+user_id: Estiven Angel

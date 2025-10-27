@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/Estiven%20Angel/Documents/Projects/mlcourse/notebooks/mlruns/447418036080281627
+creation_time: 1761534292957
+experiment_id: '447418036080281627'
+last_update_time: 1761534292957
+lifecycle_stage: active
+name: boston_housing_lasso_regression

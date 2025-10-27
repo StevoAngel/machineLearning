@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Estiven%20Angel/Documents/Projects/mlcourse/notebooks/mlruns/373716576947301030/259994a58a3947e1b022faf33093e4a3/artifacts
+end_time: 1761531055156
+entry_point_name: ''
+experiment_id: '373716576947301030'
+lifecycle_stage: active
+run_id: 259994a58a3947e1b022faf33093e4a3
+run_name: 'First try: Linear Regression'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761531052310
+status: 3
+tags: []
+user_id: Estiven Angel

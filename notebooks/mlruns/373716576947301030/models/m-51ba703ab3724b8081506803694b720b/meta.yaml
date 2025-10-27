@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Estiven%20Angel/Documents/Projects/mlcourse/notebooks/mlruns/373716576947301030/models/m-51ba703ab3724b8081506803694b720b/artifacts
+creation_timestamp: 1761531052353
+experiment_id: '373716576947301030'
+last_updated_timestamp: 1761531055151
+model_id: m-51ba703ab3724b8081506803694b720b
+model_type: null
+name: boston_housing_linear_regresion
+source_run_id: 259994a58a3947e1b022faf33093e4a3
+status: 2
+status_message: null

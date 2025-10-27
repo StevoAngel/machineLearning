@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Estiven%20Angel/Documents/Projects/mlcourse/notebooks/mlruns/447418036080281627/models/m-9d641bea169042baa141c5dd141b8dea/artifacts
+creation_timestamp: 1761536873302
+experiment_id: '447418036080281627'
+last_updated_timestamp: 1761536877375
+model_id: m-9d641bea169042baa141c5dd141b8dea
+model_type: null
+name: boston_housing_linear_lasso_regresion
+source_run_id: ce6c2f34fb004c569ed1c5b6904e6f04
+status: 2
+status_message: null
