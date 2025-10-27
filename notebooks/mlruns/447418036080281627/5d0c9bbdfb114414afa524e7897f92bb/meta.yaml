@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/Estiven%20Angel/Documents/Projects/mlcourse/notebooks/mlruns/447418036080281627/5d0c9bbdfb114414afa524e7897f92bb/artifacts
+deleted_time: 1761537588829
 end_time: 1761536417185
 entry_point_name: ''
 experiment_id: '447418036080281627'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5d0c9bbdfb114414afa524e7897f92bb
 run_name: 'Second try: Lasso Regression'
 source_name: ''

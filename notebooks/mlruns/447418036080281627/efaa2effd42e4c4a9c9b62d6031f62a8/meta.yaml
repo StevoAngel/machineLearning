@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Estiven%20Angel/Documents/Projects/mlcourse/notebooks/mlruns/447418036080281627/efaa2effd42e4c4a9c9b62d6031f62a8/artifacts
+end_time: 1761539418303
+entry_point_name: ''
+experiment_id: '447418036080281627'
+lifecycle_stage: active
+run_id: efaa2effd42e4c4a9c9b62d6031f62a8
+run_name: 'Third try: Lasso Regression and Cross Validation'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761539411010
+status: 3
+tags: []
+user_id: Estiven Angel

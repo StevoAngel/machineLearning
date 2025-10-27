@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Estiven%20Angel/Documents/Projects/mlcourse/notebooks/mlruns/447418036080281627/models/m-b4279e07dc5a4a40b8afa84f22499aa4/artifacts
+creation_timestamp: 1761539411665
+experiment_id: '447418036080281627'
+last_updated_timestamp: 1761539418265
+model_id: m-b4279e07dc5a4a40b8afa84f22499aa4
+model_type: null
+name: boston_housing_linear_lasso_regresion_cross_validation
+source_run_id: efaa2effd42e4c4a9c9b62d6031f62a8
+status: 2
+status_message: null
