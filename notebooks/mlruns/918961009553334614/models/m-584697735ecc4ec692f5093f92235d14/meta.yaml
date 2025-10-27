@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Estiven%20Angel/Documents/Projects/mlcourse/notebooks/mlruns/918961009553334614/models/m-584697735ecc4ec692f5093f92235d14/artifacts
+creation_timestamp: 1761541918245
+experiment_id: '918961009553334614'
+last_updated_timestamp: 1761541921998
+model_id: m-584697735ecc4ec692f5093f92235d14
+model_type: null
+name: best_lasso_model_from_gridsearch
+source_run_id: f4f156a64b5a4164b823f6979b0cc16e
+status: 2
+status_message: null

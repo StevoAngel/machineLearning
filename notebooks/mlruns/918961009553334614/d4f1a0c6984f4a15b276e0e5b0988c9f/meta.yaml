@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Estiven%20Angel/Documents/Projects/mlcourse/notebooks/mlruns/918961009553334614/d4f1a0c6984f4a15b276e0e5b0988c9f/artifacts
+end_time: 1761541878686
+entry_point_name: ''
+experiment_id: '918961009553334614'
+lifecycle_stage: active
+run_id: d4f1a0c6984f4a15b276e0e5b0988c9f
+run_name: 'Fourth try: GridSearchCV'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761541877044
+status: 4
+tags: []
+user_id: Estiven Angel
