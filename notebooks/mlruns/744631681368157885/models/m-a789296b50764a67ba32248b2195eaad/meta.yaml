@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/eangelec/OneDrive%20-%20Intel%20Corporation/Documents/Projects/mlcourse/notebooks/mlruns/744631681368157885/models/m-a789296b50764a67ba32248b2195eaad/artifacts
+creation_timestamp: 1762053406484
+experiment_id: '744631681368157885'
+last_updated_timestamp: 1762053413143
+model_id: m-a789296b50764a67ba32248b2195eaad
+model_type: null
+name: logistic_regression_best_model
+source_run_id: b8f7f69700eb440f993798509711a8a9
+status: 2
+status_message: null

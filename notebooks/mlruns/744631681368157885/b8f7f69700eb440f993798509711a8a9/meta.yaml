@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eangelec/OneDrive%20-%20Intel%20Corporation/Documents/Projects/mlcourse/notebooks/mlruns/744631681368157885/b8f7f69700eb440f993798509711a8a9/artifacts
+deleted_time: 1762055510959
+end_time: 1762053413156
+entry_point_name: ''
+experiment_id: '744631681368157885'
+lifecycle_stage: deleted
+run_id: b8f7f69700eb440f993798509711a8a9
+run_name: 'Try: Random Forest Classifier with GridSearchCV'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762053391590
+status: 3
+tags: []
+user_id: eangelec

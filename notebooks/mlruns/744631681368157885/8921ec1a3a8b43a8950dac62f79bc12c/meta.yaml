@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/eangelec/OneDrive%20-%20Intel%20Corporation/Documents/Projects/mlcourse/notebooks/mlruns/744631681368157885/8921ec1a3a8b43a8950dac62f79bc12c/artifacts
+end_time: 1762052863174
+entry_point_name: ''
+experiment_id: '744631681368157885'
+lifecycle_stage: active
+run_id: 8921ec1a3a8b43a8950dac62f79bc12c
+run_name: 'Try: Logistic Regression with GridSearchCV'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762052844676
+status: 3
+tags: []
+user_id: eangelec

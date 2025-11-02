@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/eangelec/OneDrive%20-%20Intel%20Corporation/Documents/Projects/mlcourse/notebooks/mlruns/744631681368157885/models/m-92e62ead01bb46b5abd2ed318ba3e9c6/artifacts
+creation_timestamp: 1762055653479
+experiment_id: '744631681368157885'
+last_updated_timestamp: 1762055661395
+model_id: m-92e62ead01bb46b5abd2ed318ba3e9c6
+model_type: null
+name: titanic_random_forest_best_model
+source_run_id: a675492deee94ce9a25c48ae65174ad7
+status: 2
+status_message: null
