@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/eangelec/OneDrive%20-%20Intel%20Corporation/Documents/Projects/mlcourse/notebooks/mlruns/744631681368157885/models/m-2edba8c2833a4b4da2ad4ee07274e09c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-2edba8c2833a4b4da2ad4ee07274e09c
+model_size_bytes: 3655
+model_uuid: m-2edba8c2833a4b4da2ad4ee07274e09c
+prompts: null
+run_id: 8f4143ed96ea419dba5c5b9a722c9cde
+utc_time_created: '2025-11-02 01:05:13.306967'

@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/eangelec/OneDrive%20-%20Intel%20Corporation/Documents/Projects/mlcourse/notebooks/mlruns/744631681368157885/models/m-55afaf39f2a748bd9f57babe91458b4e/artifacts
+creation_timestamp: 1762046449698
+experiment_id: '744631681368157885'
+last_updated_timestamp: 1762046455887
+model_id: m-55afaf39f2a748bd9f57babe91458b4e
+model_type: null
+name: logistic_regression_baseline
+source_run_id: c617983e38e2456fbaacdda08a7db8e1
+status: 2
+status_message: null

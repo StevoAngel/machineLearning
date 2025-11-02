@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eangelec/OneDrive%20-%20Intel%20Corporation/Documents/Projects/mlcourse/notebooks/mlruns/744631681368157885/8f4143ed96ea419dba5c5b9a722c9cde/artifacts
+deleted_time: 1762047613052
+end_time: 1762045521196
+entry_point_name: ''
+experiment_id: '744631681368157885'
+lifecycle_stage: deleted
+run_id: 8f4143ed96ea419dba5c5b9a722c9cde
+run_name: 'Try: Logistic Regression with Cross-Validation'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762045513033
+status: 3
+tags: []
+user_id: eangelec
