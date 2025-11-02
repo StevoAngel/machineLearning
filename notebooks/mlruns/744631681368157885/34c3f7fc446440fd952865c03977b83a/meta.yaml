@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/eangelec/OneDrive%20-%20Intel%20Corporation/Documents/Projects/mlcourse/notebooks/mlruns/744631681368157885/34c3f7fc446440fd952865c03977b83a/artifacts
+end_time: 1762056859837
+entry_point_name: ''
+experiment_id: '744631681368157885'
+lifecycle_stage: active
+run_id: 34c3f7fc446440fd952865c03977b83a
+run_name: 'Try: XGBoost classifier with GridSearchCV'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762056841782
+status: 3
+tags: []
+user_id: eangelec

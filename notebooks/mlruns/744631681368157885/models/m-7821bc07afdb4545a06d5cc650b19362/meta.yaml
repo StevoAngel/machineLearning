@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/eangelec/OneDrive%20-%20Intel%20Corporation/Documents/Projects/mlcourse/notebooks/mlruns/744631681368157885/models/m-7821bc07afdb4545a06d5cc650b19362/artifacts
+creation_timestamp: 1762056426284
+experiment_id: '744631681368157885'
+last_updated_timestamp: 1762056433902
+model_id: m-7821bc07afdb4545a06d5cc650b19362
+model_type: null
+name: titanic_xgboost_best_model
+source_run_id: bd7260bde8804938b35978192e3acc5e
+status: 2
+status_message: null
