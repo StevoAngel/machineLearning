@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/eangelec/Documents/Projects/machineLearning/notebooks/mlruns/145731064067613823/c8ddf0c943e74f218080502925fda4fd/artifacts
+end_time: 1763939982597
+entry_point_name: ''
+experiment_id: '145731064067613823'
+lifecycle_stage: active
+run_id: c8ddf0c943e74f218080502925fda4fd
+run_name: 'Try: OC-SVM model with PCA and Threshold tuning - changing the target recall'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763939980491
+status: 3
+tags: []
+user_id: eangelec

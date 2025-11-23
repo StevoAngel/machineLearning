@@ -1,0 +1,10 @@
+artifact_location: file:///Users/eangelec/Documents/Projects/machineLearning/notebooks/mlruns/145731064067613823/models/m-88f1bd9e5fb347cabd66d1f2459b4d99/artifacts
+creation_timestamp: 1763939980720
+experiment_id: '145731064067613823'
+last_updated_timestamp: 1763939982594
+model_id: m-88f1bd9e5fb347cabd66d1f2459b4d99
+model_type: null
+name: OC-SVM_optimized
+source_run_id: c8ddf0c943e74f218080502925fda4fd
+status: 2
+status_message: null

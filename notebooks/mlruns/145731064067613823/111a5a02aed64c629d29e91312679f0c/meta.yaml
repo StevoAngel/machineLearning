@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eangelec/Documents/Projects/machineLearning/notebooks/mlruns/145731064067613823/111a5a02aed64c629d29e91312679f0c/artifacts
+deleted_time: 1763939128436
+end_time: 1763939016797
+entry_point_name: ''
+experiment_id: '145731064067613823'
+lifecycle_stage: deleted
+run_id: 111a5a02aed64c629d29e91312679f0c
+run_name: 'Try: OC-SVM model with PCA and Threshold tuning'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763939014676
+status: 3
+tags: []
+user_id: eangelec
