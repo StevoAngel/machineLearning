@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eangelec/Documents/Projects/machineLearning/notebooks/mlruns/145731064067613823/012e1c6b3d22491baa6d85084ec49970/artifacts
+deleted_time: 1763931840484
+end_time: 1763931158888
+entry_point_name: ''
+experiment_id: '145731064067613823'
+lifecycle_stage: deleted
+run_id: 012e1c6b3d22491baa6d85084ec49970
+run_name: 'Try: Isolation Forest getting the best threshold for detection'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763931156800
+status: 3
+tags: []
+user_id: eangelec

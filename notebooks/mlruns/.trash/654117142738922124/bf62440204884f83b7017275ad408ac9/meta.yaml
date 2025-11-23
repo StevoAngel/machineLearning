@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eangelec/Documents/Projects/machineLearning/notebooks/mlruns/654117142738922124/bf62440204884f83b7017275ad408ac9/artifacts
+deleted_time: 1763880036657
+end_time: 1763879724908
+entry_point_name: ''
+experiment_id: '654117142738922124'
+lifecycle_stage: deleted
+run_id: bf62440204884f83b7017275ad408ac9
+run_name: 'Try: Base-Line (IsolationForest) segmentation'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763879724904
+status: 4
+tags: []
+user_id: eangelec

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eangelec/Documents/Projects/machineLearning/notebooks/mlruns/145731064067613823/b6e616333e5c44d3ae27510e2737af68/artifacts
+end_time: 1763933561946
+entry_point_name: ''
+experiment_id: '145731064067613823'
+lifecycle_stage: active
+run_id: b6e616333e5c44d3ae27510e2737af68
+run_name: 'Try: Isolation Forest getting the best threshold for detection  - changing
+  the target recall'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763933560153
+status: 3
+tags: []
+user_id: eangelec

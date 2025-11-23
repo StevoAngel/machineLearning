@@ -1,0 +1,10 @@
+artifact_location: file:///Users/eangelec/Documents/Projects/machineLearning/notebooks/mlruns/145731064067613823/models/m-0ca2be49f9b6495dbc1c9b90ed250840/artifacts
+creation_timestamp: 1763931752902
+experiment_id: '145731064067613823'
+last_updated_timestamp: 1763931754912
+model_id: m-0ca2be49f9b6495dbc1c9b90ed250840
+model_type: null
+name: Isolation_Forest_Tuned
+source_run_id: 170f8f350e65427795b9f62721dccb26
+status: 2
+status_message: null
