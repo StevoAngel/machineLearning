@@ -1,0 +1,10 @@
+artifact_location: file:///Users/eangelec/Documents/Projects/machineLearning/notebooks/mlruns/145731064067613823/models/m-42a72920380d4c06929433b8b542e189/artifacts
+creation_timestamp: 1763945905958
+experiment_id: '145731064067613823'
+last_updated_timestamp: 1763945907864
+model_id: m-42a72920380d4c06929433b8b542e189
+model_type: null
+name: PCA-RE
+source_run_id: cd7d9e71248e4348b7e960eadffceaff
+status: 2
+status_message: null

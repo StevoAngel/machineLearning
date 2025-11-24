@@ -1,0 +1,10 @@
+artifact_location: file:///Users/eangelec/Documents/Projects/machineLearning/notebooks/mlruns/145731064067613823/models/m-71313ec202ad47a69177910862bc81a2/artifacts
+creation_timestamp: 1763952200381
+experiment_id: '145731064067613823'
+last_updated_timestamp: 1763952202410
+model_id: m-71313ec202ad47a69177910862bc81a2
+model_type: null
+name: pca_reconstruction_model_tuned
+source_run_id: 56a708e2ec304c60a37b1bc032e59233
+status: 2
+status_message: null

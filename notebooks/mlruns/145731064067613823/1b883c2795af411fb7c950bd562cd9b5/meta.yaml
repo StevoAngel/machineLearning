@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eangelec/Documents/Projects/machineLearning/notebooks/mlruns/145731064067613823/1b883c2795af411fb7c950bd562cd9b5/artifacts
+deleted_time: 1763952213038
+end_time: 1763952105672
+entry_point_name: ''
+experiment_id: '145731064067613823'
+lifecycle_stage: deleted
+run_id: 1b883c2795af411fb7c950bd562cd9b5
+run_name: 'Try: Base-Line (PCA-RE model)'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763952102752
+status: 3
+tags: []
+user_id: eangelec
